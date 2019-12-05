@@ -281,3 +281,8 @@ dittovehicles.sh
 SF_DLL_BUILDER/ShaderForge/Properties/AssemblyInfo.cs
 SF_DLL_BUILDER/ShaderForge/ShaderForge.csproj
 SF_DLL_BUILDER/
+
+
+# GitHub for Unity Plugin
+Shader Forge/Assets/Plugins/GitHub
+Shader Forge/Assets/Plugins/GitHub.meta
